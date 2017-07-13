@@ -2,8 +2,6 @@
 my first repository
 
 
-
-https://github.com/loverinfo/personalsite.git
 <br><br>
 一、在github上创建新的repository（代码库）  
 //命令行操作git管理自己的代码
