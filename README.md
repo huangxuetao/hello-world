@@ -24,6 +24,10 @@ my first repository
 <br>
 六、 gitignore
 <br>
-有时候我们不想把某些文件上传到github，但是未上传的文件在`git status`中会显示，有的人就感觉很难受
+有时候我们不想把某些文件上传到github，
 <br>
-这时就可以用到gitignore，在仓库的根目录下创建`.gitignore`文件，然后在文件中配置想被忽略的文件（直接填写文件名）
+但是未上传的文件在`git status`中会显示，有的人就感觉很难受
+<br>
+这时就可以用到gitignore，在仓库的根目录下创建`.gitignore`文件，
+<br>
+然后在文件中配置想被忽略的文件（直接填写文件名）
